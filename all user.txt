@@ -1,0 +1,6 @@
+all user:
+  root user: root
+  normal user: user
+password:
+  password root: root
+  paasword user: user
